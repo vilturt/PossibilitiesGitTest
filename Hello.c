@@ -5,6 +5,8 @@ main()
 {
 
     printf("Terve, maailma!\n");
-    printf("Tulostetaan nyt jotain...\n"); // modasin tätä
+    printf("Tulostetaan nyt jotain...vieläkin.\n"); // modasin tätä
+
+    // tähän vielä yksi muutos
 
 }
